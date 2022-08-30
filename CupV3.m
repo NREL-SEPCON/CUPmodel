@@ -1,6 +1,6 @@
 %PNNL CCC submodel called 'Cup model' Written by Hoon Choi  June 08 2020
 %input parameters are as follows. (SP - stationary phase, MP - mobile phase
-% Sf = stationary factor = volume ratio of [V_SP]/[V_MP]
+% Sf = stationary factor = volume ratio of [V_SP]/[V_c]
 % KD = Distribution coefficient ([Conc_SP]eq/[Conc_MP]eq)
 % Ncup = number of cup
 % Tau = number of turnover time (iterations)
